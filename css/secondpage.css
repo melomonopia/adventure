@@ -1,0 +1,10 @@
+#secondpage_background {
+    background-image: url(../images/secondpagebackground.jpg);
+    background-size: 300vw 100%; 
+  }
+
+
+  #secondpage_background {
+    width: 300vw;
+    height: 100%; 
+  }
