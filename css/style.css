@@ -1,7 +1,17 @@
 html {
   background-image: url(../images/frontpage.jpg);
-  background-size: cover; 
+  background-size: 195vh;  
+  height: auto;
+  width: auto;
+  margin:0;
+  padding:0;
+  background-repeat: no-repeat;
 }
-  .testlink {
-    top: 0px;
+ 
+  #startingbutton {
+    height: 28vh;
+    width: auto;
+    position: absolute;
+    top: 56vh;
+    left:37vw;
   }
