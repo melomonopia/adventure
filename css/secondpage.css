@@ -1,0 +1,380 @@
+#secondpage_background {
+    height: 100vh;
+    width: 500vw;
+    margin:0;
+    padding:0;
+    background-image: url(../images/BG3.jpg);
+    background-size: auto 100vh; 
+    background-repeat: no-repeat;
+  }
+
+#gaur{
+  height: 50vh;
+  width: auto;
+  position: absolute;
+  top: 50vh;
+  left:50vw;
+}
+#great{
+    height: 55vh;
+    width: auto;
+    position: absolute;
+    top: 45vh;
+    left:10vw;
+  
+}
+#anhinga{
+  height: 45vh;
+  width: auto;
+  position: absolute;
+  top: 7vh;
+  left:31vw;
+
+}
+#gopher{
+  height: 40vh;
+  width: auto;
+  position: absolute;
+  top: 52vh;
+  left:102vw;
+
+}
+#burrowingowl{
+  height: 35vh;
+  width: auto;
+  position: absolute;
+  top: 7vh;
+  left:125vw;
+
+}
+#indigo{
+  height: 52vh;
+  width: auto;
+  position: absolute;
+  top: 52vh;
+  left:148vw;
+
+}
+#alligator{
+  height: 78vh;
+  width: auto;
+  position: absolute;
+  top: 38vh;
+  left:199vw;
+
+}
+#bromeliad{
+  height: 45vh;
+  width: auto;
+  position: absolute;
+  top: 3vh;
+  left:258vw;
+
+}
+#crocodile{
+  height: 50vh;
+  width: auto;
+  position: absolute;
+  top: 40vh;
+  left:327vw;
+
+}
+#ratsnake{
+  height: 53vh;
+  width: auto;
+  position: absolute;
+  top: 1vh;
+  left:295vw;
+
+}
+#mangrovecrab{
+  height: 30vh;
+  width: auto;
+  position: absolute;
+  top: 6vh;
+  left:367vw;
+
+}
+#manatee{
+  height: 55vh;
+  width: auto;
+  position: absolute;
+  top: 22vh;
+  left:410vw;
+
+}
+#spoonbill{
+  height: 45vh;
+  width: auto;
+  position: absolute;
+  top: 5vh;
+  left:448vw;
+
+}
+
+#finishbutton {
+  height: 30vh;
+  width: auto;
+  position: absolute;
+  top: 5vh;
+  left:478vw;
+}
+
+@media screen and (min-width: 2000px) {}
+
+
+  #secondpage_background {
+    height: 1125vh;
+    width: 2000 vw;
+    margin:0;
+    padding:0;
+    background-image: url(../images/BG3.jpg);
+    background-size: auto 95.5vh; 
+    background-size: auto 51.75vw;
+    background-repeat: repeat;
+  }
+
+
+  #popUpDivAnhinga{
+    display: none;
+    position: absolute;
+    left: 60vw;
+    right:25vw;
+    width: 27vw;
+    height:25vh;
+    margin:10;
+    background-color: rgb(139, 218, 139);
+    text-align: center;
+    top: 5vh
+  }
+  #closeButtonAnhinga{
+    position:absolute;
+    top:0;
+   right:0;
+
+ }
+  #popUpDivHeron{
+    display: none;
+    position: absolute;
+    left: 10vw;
+    right:25vw;
+    width: 27vw;
+    height:25vh;
+    margin:10;
+    background-color: rgb(139, 218, 139);
+    text-align: center;
+    top: 25vh
+  }
+  #closeButtonHeron{
+    position:absolute;
+    top:0;
+   right:0;
+
+ }
+ #popUpDivGaur{
+  display: none;
+  position: absolute;
+  left: 60vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(139, 218, 139);
+  text-align: center;
+  top: 45vh
+}
+#closeButtonGaur{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+
+
+#popUpDivOwl{
+  display: none;
+  position: absolute;
+  left: 150vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(255, 182, 89);
+  text-align: center;
+  top: 5vh
+}
+#closeButtonOwl{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivTort{
+  display: none;
+  position: absolute;
+  left: 110vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(255, 182, 89);
+  text-align: center;
+  top: 30vh
+}
+#closeButtonTort{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivIndigo{
+  display: none;
+  position: absolute;
+  left: 155vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(255, 182, 98);
+  text-align: center;
+  top: 45vh
+}
+#closeButtonIndigo{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+
+
+
+#popUpDivGator{
+  display: none;
+  position: absolute;
+  left: 255vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(0, 189, 120);
+  text-align: center;
+  top: 55vh
+}
+#closeButtonGator{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivBromeliad{
+  display: none;
+  position: absolute;
+  left: 230vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(0, 189, 120);
+  text-align: center;
+  top: 10vh
+}
+#closeButtonBromeliad{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+
+
+#popUpDivCroc{
+  display: none;
+  position: absolute;
+  left: 360vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(176, 207, 0);
+  text-align: center;
+  top: 50vh
+}
+#closeButtonCroc{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivRatsnake{
+  display: none;
+  position: absolute;
+  left: 315vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(176, 207, 0);
+  text-align: center;
+  top: 12vh
+}
+#closeButtonRatsnake{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivCrab{
+  display: none;
+  position: absolute;
+  left: 343vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(176, 207, 0);
+  text-align: center;
+  top: 12vh
+}
+#closeButtonCrab{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+
+#popUpDivManatee{
+  display: none;
+  position: absolute;
+  left: 420vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(255, 181, 188);
+  text-align: center;
+  top: 70vh
+}
+#closeButtonManatee{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+#popUpDivSpoonbill{
+  display: none;
+  position: absolute;
+  left: 460vw;
+  right:25vw;
+  width: 27vw;
+  height:25vh;
+  margin:10;
+  background-color: rgb(255, 181, 188);
+  text-align: center;
+  top: 50vh
+}
+#closeButtonSpoonbill{
+  position:absolute;
+  top:0;
+ right:0;
+
+}
+

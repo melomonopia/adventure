@@ -1,0 +1,87 @@
+html {
+    background-image: url(../images/finalpage.png);
+    background-size: 200vh;  
+    height: auto;
+    width: auto;
+    margin:0;
+    padding:0;
+    background-repeat: no-repeat;
+  }
+
+
+
+
+  .link-card {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+    width: 300px;
+    background-color: #fdffff;
+    position: absolute;
+    top: 70vh;
+    left:20vw;
+  }
+  
+  .link-card img {
+    width: 100px;
+    object-fit: cover;
+  }
+  
+  .link-info {
+    padding: 10px;
+  }
+
+
+
+
+
+  .link-card2 {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+    width: 300px;
+    background-color: #fdffff;
+    position: absolute;
+    top: 70vh;
+    left:40vw;
+  }
+  
+  .link-card2 img {
+    width: 100px;
+    object-fit: cover;
+  }
+  
+  .link-info2 {
+    padding: 10px;
+  }
+
+
+
+  .link-card3 {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+    width: 300px;
+    background-color: #fdffff;
+    position: absolute;
+    top: 70vh;
+    left:60vw;
+  }
+  
+  .link-card3 img {
+    width: 100px;
+    object-fit: cover;
+  }
+  
+  .link-info3 {
+    padding: 10px;
+  }
